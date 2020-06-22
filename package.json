@@ -1,0 +1,27 @@
+{
+  "name": "avantgardino-better",
+  "version": "1.0.0",
+  "description": "Web containing current avantgardino meals with images and public rating. Its goal is to facilitate selection of meals and also provide feedback to the restaurant's staff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cicko/avantgardino-better.git"
+  },
+  "keywords": [
+    "avantgardino",
+    "food",
+    "menu",
+    "images",
+    "rating",
+    "meals"
+  ],
+  "author": "Rudolf Cicko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cicko/avantgardino-better/issues"
+  },
+  "homepage": "https://github.com/Cicko/avantgardino-better#readme"
+}
